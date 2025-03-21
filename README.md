@@ -21,11 +21,11 @@ let numbers = [1, 2, 3, 4]; // Array
 function greet() { console.log("Hello!"); } // Function
 
 
-## 🔄 Type Conversion in JavaScript
+### 🔄 Type Conversion in JavaScript
 JavaScript supports automatic and manual type conversion.
 
 
-### 🚀 Summary
+## 🚀 Summary
 ✔ JavaScript has Primitive (String, Number, Boolean, etc.) and Non-Primitive (Object, Array, Function) data types.
 
 ✔ Implicit Type Conversion happens automatically in JS operations.
